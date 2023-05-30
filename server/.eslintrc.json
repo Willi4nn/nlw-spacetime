@@ -1,0 +1,9 @@
+{
+  "extends": [
+    "@rocketseat/eslint-config/node"
+  ],
+  "plugins": [], // Remova o plugin prettier
+  "rules": {
+    "prettier/prettier": "off"
+  }
+}
