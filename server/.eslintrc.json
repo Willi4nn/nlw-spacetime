@@ -4,6 +4,7 @@
   ],
   "plugins": [], // Remova o plugin prettier
   "rules": {
+    "camelcase": "off",
     "prettier/prettier": "off"
   }
 }
